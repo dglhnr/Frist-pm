@@ -1,0 +1,6 @@
+github网址:https://github.com
+git账号信息:
+1. 用户名: qin10010 , 密码:qin10086 ,邮箱:506665186@qq.com
+2. 用户名: qin10086 , 密码:qin10010 ,邮箱:1017416274@qq.com
+
+https://github.com/qin10086/51class.git
